@@ -1,14 +1,14 @@
-# CityHack22 Project Submission
-## Project: Spat!ial
+# HK Techathon Project Submission
+## Project: Spat!al
 <img src="https://github.com/IshaankChopra/CityHack22/blob/main/Screenshot_2022-01-29_at_4.49.36_PM-removebg-preview.png" width="600" alt="project_logo"/>
 
 ## Team: Driven By Data
 ## Members
-- Ishaank Chopra (Leader)
+- Ishaank Chopra
 - Nobel Jaison
 - Tanush Changani
 - Arnav Kithania
-- Eklavya Agarwal
+- Kanav Mehta
 
 ## Description of the Project (300 words)
 
@@ -27,9 +27,8 @@ As COVID-19 continues to become a greater problem, the need for online school ha
 1. Face Detection
 2. Spatial Audio
 3. Virtual Space Arrangement
-4. Record linkage
+4. Record Linkage
 
 ## Link
 - https://youtu.be/pj4ovn123BQ
-- https://ishaankchopra.github.io/CityHack22/
-- https://spatialaudioo.000webhostapp.com/ --> This website is just for visualizing, actual features like Eye Detection and Spatial Audio will be added later in the post-development phase
+- https://nobelj.github.io/HKTechathon/ --> This website is just for visualizing, actual features like Eye Detection and Spatial Audio will be added later in the post-development phase
